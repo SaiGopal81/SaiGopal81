@@ -1,5 +1,21 @@
 # 💫 About Me:
- 🔭 I’m currently working on:<br>Python and SQL as an Intern at Sigmoid, gaining hands-on experience in data analysis and real-world datasets.<br><br>👯 I’m looking to collaborate on:<br>Data engineering, analytics projects, and open-source work involving Python, SQL, or backend systems.<br><br>🤝 I’m looking for help with:<br>Data engineering fundamentals, optimizing SQL queries, and building reliable data pipelines.<br><br>🌱 I’m currently learning:<br>Python for data, advanced SQL, ETL concepts, and core data engineering tools—while leveraging my prior experience with the MERN stack.<br><br>💬 Ask me about:<br>Python, SQL, JavaScript, React, MongoDB, GitHub, or cricket strategy 🏏<br><br>⚡ Fun fact:<br>I started with the MERN stack and now enjoy turning raw data into clean, meaningful insights—same discipline, different game 😄
+🔭 I’m currently working on:<br>
+Building scalable data pipelines and ETL workflows using Python, SQL, PySpark, and Azure Data Factory on real-world datasets.<br><br>
+
+👯 I’m looking to collaborate on:<br>
+Data engineering systems, ETL pipeline development, and distributed data processing projects using Python, Spark, and cloud platforms.<br><br>
+
+🤝 I’m looking for help with:<br>
+Advanced data engineering topics such as Spark performance optimization, real-time data processing, and scalable pipeline architecture.<br><br>
+
+🌱 I’m currently learning:<br>
+Advanced PySpark, Delta Lake, Airflow orchestration, and data pipeline optimization techniques for large-scale data systems.<br><br>
+
+💬 Ask me about:<br>
+Python, SQL, PySpark, ETL pipelines, Azure Data Factory, Airflow, MongoDB (NoSQL), Docker, and data engineering workflows.<br><br>
+
+⚡ Fun fact:<br>
+I enjoy transforming raw, high-volume data into structured, reliable pipelines that power meaningful insights 🚀
 
 
 ## 🌐 Socials:
