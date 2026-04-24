@@ -14,9 +14,6 @@ Advanced PySpark, Delta Lake, Airflow orchestration, and data pipeline optimizat
 💬 Ask me about:<br>
 Python, SQL, PySpark, ETL pipelines, Azure Data Factory, Airflow, MongoDB (NoSQL), Docker, and data engineering workflows.<br><br>
 
-⚡ Fun fact:<br>
-I enjoy transforming raw, high-volume data into structured, reliable pipelines that power meaningful insights 🚀
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saigopalpotnuru_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-gopal-399067267/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saigopal.potnuru@gmail.com) 
